@@ -1,0 +1,5 @@
+print('Este programa calcula la media de dos numeros')
+Primero = float(input('Ingrese el valor del numero 1 :'))
+Segundo = float(input('Ingrese el valor del numero 2 :'))
+print('Los numeros son',  Primero, 'y', Segundo)
+print('El promedio de estos numeros es:  ', (Primero+Segundo)/2)

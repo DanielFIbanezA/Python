@@ -1,0 +1,5 @@
+print("Este es un programa para imprimir las iniciales de un nopmbre")
+nombre1 = input("Ingrese su primer nombre: ")
+nombre2 = input("Ingrese su segundo nombre: ")
+apellido = input("Ingrese su apellido: ")
+print("Sus iniciales son : " , nombre1[0],nombre2[0],apellido[0])
